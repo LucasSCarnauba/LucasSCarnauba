@@ -4,6 +4,8 @@
 <br>
 <p>I'm a student of Computer Science, in UNIP and I study programming and comunication</p>
 <p>I have a few programming languages ​​and am always looking to learn new ones.</p>
+<br>
+<h1> I code with:</h1>
 <ul type="none">
   <li><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></li>
   <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></li>
